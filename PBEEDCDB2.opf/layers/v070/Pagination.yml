@@ -966,37 +966,37 @@ annotations:
     reference: ''
     span:
       start: 190528
-      end: 192849
+      end: 192857
   0079fd4d5d9d4e5980f866ce0e06be99:
     imgnum: 1149
     reference: ''
     span:
-      start: 192851
-      end: 195041
+      start: 192859
+      end: 195049
   0822230725f24458b7b628f5bf3a8a8f:
     imgnum: 1150
     reference: ''
     span:
-      start: 195043
-      end: 197329
+      start: 195051
+      end: 197337
   3e4f11c80a754b259b30d28a61ed552e:
     imgnum: 1151
     reference: ''
     span:
-      start: 197331
-      end: 199553
+      start: 197339
+      end: 199561
   fe6fdd9602c942e79104fa5d97ccdc97:
     imgnum: 1152
     reference: ''
     span:
-      start: 199555
-      end: 201702
+      start: 199563
+      end: 201710
   dded42da46ec4cc298224048b0596938:
     imgnum: 1153
     reference: ''
     span:
-      start: 201704
-      end: 201726
+      start: 201712
+      end: 201734
 local_ids:
   3ee1b53ba7a940c8bc143d7704b84132: 200000
   566f82ecbbd94382907f6735f68e31c9: 200001
